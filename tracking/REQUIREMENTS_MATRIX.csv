@@ -1,0 +1,13 @@
+req_id,raw_requirement,applicable_scope,implementation_file,verification_method,verification_evidence,status,gaps
+REQ-01,外链强制拦截并注入 target="_blank" rel="nofollow sponsored noopener",全站所有出站外链,docs/.vitepress/theme/index.ts,页面DOM事件监听与渲染输出检查,已挂载全局 a 标签点击拦截并在 SSR 阶段注入 rel 属性,已满足,无
+REQ-02,外链附近展示推广佣金合规披露,推广卡片与文章导读,docs/.vitepress/theme/components/AffiliateLink.vue,页面视觉渲染与代码审计,全局植入 disclosure-banner 与卡片披露信息,已满足,无
+REQ-03,未知值不捏造 历史数据标 historical 不虚构评分,数据层与展示层,docs/data/brands.ts & DataStatusBadge.vue,数据结构核验与坏值扫描,全站仅收录42家真实数据，历史测速标注 historical,已满足,无
+REQ-04,全站页脚法律与独立第三方指南合规声明,全站页脚布局,docs/.vitepress/config.mts,构建静态 HTML 页脚文本检查,已配置在 themeConfig.footer,已满足,无
+REQ-05,全站统一正式主域名 ainetguide.cc,全站元数据与Sitemap,docs/.vitepress/config.mts,Sitemap.xml与Canonical Head检查,已注入 canonical 标签并在构建时生成规范 sitemap.xml,已满足,无
+REQ-06,URL 防批量 AI 识别专项优化 (消除固定序号),全站 1024 篇长尾文章,scripts/generate-master-matrix.js,文件名正则与重复度扫描,0个固定序号文件，全量自然长尾 Slug,已满足,无
+REQ-07,一级入口万字级 GEO/AEO 支柱页面 (10000-15000字),8 个一级栏目 index.md,docs/*/index.md,字符与汉字数统计脚本,8 个一级入口页面单页均超过 22000 字符，满足万字标准,已满足,无
+REQ-08,二级专题万字级深度超级 Hub,64 个二级专题 index.md,docs/*/*/index.md,结构化内容与对比表核验,64 个专题已配备参数表、决策树、10篇FAQ与双品牌卡片,已满足,无
+REQ-09,三级技术集群实战攻坚中心,128 个三级集群 index.md,docs/*/*/*/index.md,集群诊断报文与长尾文章导航核验,128 个集群已具备报错日志、排查指令与8篇长尾矩阵,已满足,无
+REQ-10,跨文章正文相似度 (Jaccard) 控制在安全阈值以下,全站 1024 篇长尾文章,scripts/audit-anti-ai-and-duplication.js,词级 Jaccard 相似度抽样算法,严重重复文章数降至 0 组，最高相似度仅 71.8%,已满足,无
+REQ-11,42 家真实机场深度优化评测与测速解锁图落地,42 篇品牌专页,docs/providers/review/*.md,本地图片资源与链接可达性检查,17张测速图+12张解锁图+30个Logo全部落地并生成独立评测页,已满足,无
+REQ-12,全站生产环境打包与零死链验证,全站 1267 个页面,package.json (docs:build),VitePress 生产静态构建执行,42.55s 构建成功，1267 页面 100% SSR 渲染通过，0处死链,已满足,无

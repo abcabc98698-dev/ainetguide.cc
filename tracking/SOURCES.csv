@@ -1,0 +1,6 @@
+source_id,fact_category,source_name,source_url,access_date,subject,data_date,credibility_scope,associated_pages
+SRC_BRANDS_42_TXT,品牌与套餐,"42家机场品牌清单.txt",local://Desktop/机场品牌信息/42家机场品牌清单.txt,2026-10-25,42家机场全量品牌,2026-10-25,官方公布参数与本站独家优惠码,/providers/*;/providers/review/*
+SRC_SPEEDTEST_2026,实网测速,"17张千兆实网测速图",local://docs/public/images/speedtest/,2026-10-25,晚高峰单线程与多线程吞吐,2026-10-22,电信/联通实网测速数据,/providers/review/*;/streaming/*
+SRC_UNLOCK_2026,流媒体解锁,"12张流媒体原生解锁截图",local://docs/public/images/unlock/,2026-10-25,Netflix/Disney+/YouTube,2026-10-23,真实脚本检测截图,/streaming/*;/providers/review/*
+SRC_RFC_SPECS,网络协议标准,"IETF RFC 8446 / RFC 9000",https://datatracker.ietf.org/doc/html/rfc8446,2026-10-25,TLS 1.3 / QUIC / TCP BBR,2026-10-01,国际互联网标准化文档,/demand/*;/troubleshooting/*
+SRC_MAXMIND_IPINFO,IP风控数据库,"MaxMind GeoIP2 / IPinfo / Scamalytics",https://ipinfo.io,2026-10-25,ASN属性与欺诈分判定,2026-10-25,全球 IP 威胁信誉库,/ai-guide/*;/demand/high-risk-anonymity/*

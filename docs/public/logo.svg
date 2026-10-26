@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+    <linearGradient id="glow-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+  </defs>
+  <!-- Rounded Base Icon -->
+  <rect width="48" height="48" rx="12" fill="url(#bg-grad)" />
+  <!-- Circuit Nodes & Global Network Mesh -->
+  <circle cx="24" cy="24" r="16" stroke="#93c5fd" stroke-width="1.5" stroke-dasharray="3 3" opacity="0.6" />
+  <ellipse cx="24" cy="24" rx="8" ry="16" stroke="#bfdbfe" stroke-width="1.5" opacity="0.5" />
+  <!-- Dynamic Lightning / Node Speed Line -->
+  <path d="M26 10L16 26H24L22 38L32 22H24L26 10Z" fill="url(#glow-grad)" stroke="#ffffff" stroke-width="1" stroke-linejoin="round" />
+  <!-- Satellite Dots -->
+  <circle cx="12" cy="18" r="2" fill="#38bdf8" />
+  <circle cx="36" cy="30" r="2" fill="#10b981" />
+  <circle cx="34" cy="14" r="1.5" fill="#ffffff" />
+</svg>

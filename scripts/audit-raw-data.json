@@ -1,0 +1,76 @@
+{
+  "robotsExists": false,
+  "sitemapExists": true,
+  "sitemapCount": 1267,
+  "sitemapHasLastmod": false,
+  "thin300Count": 0,
+  "thin300List": [],
+  "thin500Count": 0,
+  "dupTitlesCount": 0,
+  "dupDescsCount": 568,
+  "dupH1sCount": 0,
+  "pagesWithAuthor": 9,
+  "pagesWithoutAuthor": 1258,
+  "olderThan6Months": 0,
+  "olderThan12Months": 0,
+  "totalOutboundLinks": 2995,
+  "pagesWithDisclosure": 1076,
+  "emptyLinks": 0,
+  "hashLinks": 0,
+  "brokenInternalLinksCount": 64,
+  "brokenInternalLinksSample": [
+    {
+      "source": "ai-guide/index.md",
+      "target": "/demand/"
+    },
+    {
+      "source": "ai-guide/index.md",
+      "target": "/streaming/"
+    },
+    {
+      "source": "ai-guide/index.md",
+      "target": "/work-study/"
+    },
+    {
+      "source": "ai-guide/index.md",
+      "target": "/providers/"
+    },
+    {
+      "source": "ai-guide/index.md",
+      "target": "/free/"
+    },
+    {
+      "source": "ai-guide/index.md",
+      "target": "/troubleshooting/"
+    },
+    {
+      "source": "ai-guide/index.md",
+      "target": "/clients/"
+    },
+    {
+      "source": "clients/index.md",
+      "target": "/demand/"
+    },
+    {
+      "source": "clients/index.md",
+      "target": "/ai-guide/"
+    },
+    {
+      "source": "clients/index.md",
+      "target": "/streaming/"
+    }
+  ],
+  "orphanCount": 1266,
+  "orphanSample": [
+    "ai-guide/account-risk/index",
+    "ai-guide/account-risk/ip-purity-detection/index",
+    "ai-guide/account-risk/ip-purity-detection/ip-purity-detection-cross-platform-pc-mobile-router-collab",
+    "ai-guide/account-risk/ip-purity-detection/ip-purity-detection-evening-peak-qos-throttle-mitigation",
+    "ai-guide/account-risk/ip-purity-detection/ip-purity-detection-quickstart-emergency-fix",
+    "ai-guide/account-risk/ip-purity-detection/ip-purity-detection-residential-isp-ip-fraud-score-audit",
+    "ai-guide/account-risk/ip-purity-detection/ip-purity-detection-security-privacy-anti-association-blueprint",
+    "ai-guide/account-risk/ip-purity-detection/ip-purity-detection-tun-virtual-adapter-dns-leak-prevention",
+    "ai-guide/account-risk/ip-purity-detection/ip-purity-detection-vless-reality-hysteria2-tuning-rules",
+    "ai-guide/account-risk/ip-purity-detection/ip-purity-detection-wireshark-tcp-handshake-log-analysis"
+  ]
+}

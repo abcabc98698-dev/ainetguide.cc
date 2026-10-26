@@ -1,0 +1,373 @@
+{
+  "version": "2026.1.0",
+  "lastUpdated": "2026-10-25",
+  "entities": {
+    "brands": [
+      {
+        "id": "guangsu-cloud",
+        "name": "光速云",
+        "type": "provider",
+        "affiliateUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y",
+        "couponCode": "AMM"
+      },
+      {
+        "id": "feimao-cloud",
+        "name": "飞猫云",
+        "type": "provider",
+        "affiliateUrl": "https://guangs.flycataff.com/#/?code=6uq0Xe9y",
+        "couponCode": "flycat888"
+      },
+      {
+        "id": "weifeng-net",
+        "name": "微风网络",
+        "type": "provider",
+        "affiliateUrl": "https://edp01.breezenetaff.com/#/?code=t3huofyI",
+        "couponCode": "flat888"
+      },
+      {
+        "id": "muguang-acc",
+        "name": "暮光加速",
+        "type": "provider",
+        "affiliateUrl": "https://varnexa.twilightaff.com/#/?code=D1LHglg3",
+        "couponCode": "muguang5555"
+      },
+      {
+        "id": "dalaoyun",
+        "name": "大佬云",
+        "type": "provider",
+        "affiliateUrl": "https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN",
+        "couponCode": "dly888"
+      },
+      {
+        "id": "xingdaomeng",
+        "name": "星岛梦",
+        "type": "provider",
+        "affiliateUrl": "https://guangs.xingdaomeng.com/#/?code=1TynBYnR",
+        "couponCode": "nmw888"
+      },
+      {
+        "id": "ermao-cloud",
+        "name": "二猫云",
+        "type": "provider",
+        "affiliateUrl": "https://guangs.2maoyunaff.cc/#/?code=7mjvgGbW",
+        "couponCode": "ermao5555"
+      },
+      {
+        "id": "wuyou-link",
+        "name": "无忧链接",
+        "type": "provider",
+        "affiliateUrl": "https://wep01.worryfreeaff.com/#/?code=4ZoSbLdL",
+        "couponCode": "wuyou666"
+      },
+      {
+        "id": "weitu-cloud",
+        "name": "唯兔云",
+        "type": "provider",
+        "affiliateUrl": "https://guangs.v2yunvipaff.com/#/?code=xIutqOBA",
+        "couponCode": "weitu666"
+      },
+      {
+        "id": "firefly",
+        "name": "Firefly",
+        "type": "provider",
+        "affiliateUrl": "https://vip02.fireflyaff.com/#/?code=2n7VURre",
+        "couponCode": "firefly"
+      },
+      {
+        "id": "yuzhou-cloud",
+        "name": "宇宙云",
+        "type": "provider",
+        "affiliateUrl": "https://wzjc.yuzoucloud.cc/#/?code=yrThwMP1",
+        "couponCode": "YUZHOU553"
+      },
+      {
+        "id": "u1s1",
+        "name": "U1S1",
+        "type": "provider",
+        "affiliateUrl": "https://guangs.vipaff.cc/#/?code=xhX5X22f",
+        "couponCode": "akaka"
+      },
+      {
+        "id": "lingmao-net",
+        "name": "灵猫网络",
+        "type": "provider",
+        "affiliateUrl": "https://vip01.civetnet.com/#/?code=8MIAyxak",
+        "couponCode": "lmao888"
+      },
+      {
+        "id": "jilian-cloud",
+        "name": "极连云",
+        "type": "provider",
+        "affiliateUrl": "https://guangs.jlyvipaff.com/#/?code=VM1rKGUu",
+        "couponCode": "ji8888"
+      },
+      {
+        "id": "guangnian-ladder",
+        "name": "光年梯",
+        "type": "provider",
+        "affiliateUrl": "https://guangs.gntaff.com/#/?code=X1FoxjGE",
+        "couponCode": "gnt6666"
+      },
+      {
+        "id": "yifan-cloud",
+        "name": "一翻云",
+        "type": "provider",
+        "affiliateUrl": "https://guangs.1flyunaff.cc/#/register?code=Yr7FhB7r",
+        "couponCode": "yfy6666"
+      },
+      {
+        "id": "sogo-cloud",
+        "name": "SOGO云",
+        "type": "provider",
+        "affiliateUrl": "https://guangs.sogoyunaff.cc/#/?code=327Vs0w7",
+        "couponCode": "sss777"
+      },
+      {
+        "id": "kexin-cloud",
+        "name": "可信云",
+        "type": "provider",
+        "affiliateUrl": "https://guangs.kosingaff.com/#/register?code=UYDtNlCY",
+        "couponCode": "kkk333"
+      },
+      {
+        "id": "sujie",
+        "name": "速界",
+        "type": "provider",
+        "affiliateUrl": "https://guangs.speedworldaff.cc/#/register?code=xgXzEfZB",
+        "couponCode": "sss1111"
+      },
+      {
+        "id": "shanyue",
+        "name": "闪跃",
+        "type": "provider",
+        "affiliateUrl": "https://vip02.flashleapaff.com/#/?code=3lgzm9mm",
+        "couponCode": "shanyue"
+      },
+      {
+        "id": "quanqiu-cloud",
+        "name": "全球云",
+        "type": "provider",
+        "affiliateUrl": "https://guangs.gcvipaff.com/#/?code=Ov2nvU9C",
+        "couponCode": "qqy7777"
+      },
+      {
+        "id": "shandianshu",
+        "name": "闪电鼠",
+        "type": "provider",
+        "affiliateUrl": "https://qwerty.shandianshuaff.com/#/?code=rUE75iYh",
+        "couponCode": "sd88"
+      },
+      {
+        "id": "yunjiexian",
+        "name": "云界线",
+        "type": "provider",
+        "affiliateUrl": "https://qwerty.yunjiexianaff.com/?code=HBaZ91c6",
+        "couponCode": "yjx888"
+      },
+      {
+        "id": "liulianyun",
+        "name": "榴莲云",
+        "type": "provider",
+        "affiliateUrl": "https://qwerty.liulianyunaff.com#/?code=hS5pvbfE",
+        "couponCode": "ll88"
+      },
+      {
+        "id": "shenxing-acc",
+        "name": "神行加速",
+        "type": "provider",
+        "affiliateUrl": "https://qwerty.shenxingaff.com/#/?code=gawDQqVE",
+        "couponCode": "xs0077"
+      },
+      {
+        "id": "huanqiuti",
+        "name": "环球梯",
+        "type": "provider",
+        "affiliateUrl": "https://qwerty.huanqiutiaff.com/?code=9I4KRNPH",
+        "couponCode": "HQ66"
+      },
+      {
+        "id": "yinxingren",
+        "name": "隐形人",
+        "type": "provider",
+        "affiliateUrl": "https://yinxingren1.invisibleaff.com/#/?code=kcyEeoJT",
+        "couponCode": "yxr888"
+      },
+      {
+        "id": "tiziyun",
+        "name": "梯子云",
+        "type": "provider",
+        "affiliateUrl": "https://tiziyun3.ladderaff.com/#/?code=7EmnpHs0",
+        "couponCode": "tiziyun"
+      },
+      {
+        "id": "wgetcloud",
+        "name": "WgetCloud",
+        "type": "provider",
+        "affiliateUrl": "https://invite.wgetcloud.ltd/auth/register?code=VLG2xb"
+      },
+      {
+        "id": "baiyueguang",
+        "name": "白月光",
+        "type": "provider",
+        "affiliateUrl": "https://invite.wgetcloud.ltd/auth/register?code=VLG2xb"
+      },
+      {
+        "id": "flyingbird",
+        "name": "FlyingBird",
+        "type": "provider",
+        "affiliateUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y",
+        "couponCode": "year85"
+      },
+      {
+        "id": "cyberguard",
+        "name": "CyberGuard",
+        "type": "provider",
+        "affiliateUrl": "https://cyberguard.best/#/register?code=AxXNNYng"
+      },
+      {
+        "id": "longmaoyun",
+        "name": "龙猫云",
+        "type": "provider",
+        "affiliateUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y"
+      },
+      {
+        "id": "fatcat",
+        "name": "FATCAT",
+        "type": "provider",
+        "affiliateUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y"
+      },
+      {
+        "id": "tntcloud",
+        "name": "TNTCloud",
+        "type": "provider",
+        "affiliateUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y"
+      },
+      {
+        "id": "qingyunti",
+        "name": "青云梯",
+        "type": "provider",
+        "affiliateUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y"
+      },
+      {
+        "id": "shanshui-cloud",
+        "name": "山水云",
+        "type": "provider",
+        "affiliateUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y"
+      },
+      {
+        "id": "lingdong-cloud",
+        "name": "灵动云",
+        "type": "provider",
+        "affiliateUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y"
+      },
+      {
+        "id": "langwang",
+        "name": "浪网",
+        "type": "provider",
+        "affiliateUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y"
+      },
+      {
+        "id": "edgenova",
+        "name": "EdgeNova",
+        "type": "provider",
+        "affiliateUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y"
+      },
+      {
+        "id": "yinghuochong",
+        "name": "萤火虫",
+        "type": "provider",
+        "affiliateUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y"
+      },
+      {
+        "id": "sslar",
+        "name": "sslar",
+        "type": "provider",
+        "affiliateUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y"
+      }
+    ],
+    "protocols": [
+      {
+        "id": "ss",
+        "name": "Shadowsocks (AEAD)",
+        "type": "transport_protocol",
+        "ciphers": "chacha20-poly1305, aes-256-gcm"
+      },
+      {
+        "id": "vless_reality",
+        "name": "VLESS Reality",
+        "type": "transport_protocol",
+        "ciphers": "TLS 1.3 uTLS Chrome emulation"
+      },
+      {
+        "id": "hysteria2",
+        "name": "Hysteria 2",
+        "type": "udp_protocol",
+        "features": "Brutal congestion control, UDP port hopping"
+      },
+      {
+        "id": "tuic",
+        "name": "TUIC v5",
+        "type": "udp_protocol",
+        "features": "QUIC native multiplexing"
+      }
+    ],
+    "clients": [
+      {
+        "id": "clash_verge_rev",
+        "name": "Clash Verge Rev",
+        "platform": "Windows, macOS, Linux",
+        "kernel": "Mihomo (Clash Meta)"
+      },
+      {
+        "id": "surge",
+        "name": "Surge",
+        "platform": "macOS, iOS, tvOS",
+        "kernel": "Proprietary Network Engine"
+      },
+      {
+        "id": "shadowrocket",
+        "name": "Shadowrocket",
+        "platform": "iOS, iPadOS, tvOS",
+        "kernel": "Rule-based proxy client"
+      },
+      {
+        "id": "flclash",
+        "name": "FlClash",
+        "platform": "Android, Windows, macOS",
+        "kernel": "Mihomo cross-platform"
+      },
+      {
+        "id": "openwrt_passwall",
+        "name": "OpenWrt Passwall",
+        "platform": "Router / x86 Soft Router",
+        "kernel": "TProxy / Redir"
+      }
+    ],
+    "targetPlatforms": [
+      {
+        "id": "chatgpt",
+        "name": "ChatGPT / OpenAI",
+        "riskEngine": "Cloudflare Turnstile + DataDome",
+        "ipRequirement": "Residential / Clean ASN"
+      },
+      {
+        "id": "claude",
+        "name": "Claude 3.5 Sonnet / Anthropic",
+        "riskEngine": "Anthropic Realtime Fraud Scoring",
+        "ipRequirement": "Zero-Fraud Residential ISP"
+      },
+      {
+        "id": "netflix",
+        "name": "Netflix 4K HDR",
+        "riskEngine": "MaxMind GeoIP2 ASN Blacklist",
+        "ipRequirement": "Non-Datacenter Residential IP"
+      },
+      {
+        "id": "zoom",
+        "name": "Zoom Video Communications",
+        "protocol": "UDP RTP/RTCP",
+        "requirement": "Jitter < 3ms, Loss < 0.1%"
+      }
+    ]
+  }
+}

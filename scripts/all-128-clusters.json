@@ -1,0 +1,770 @@
+[
+  {
+    "section": "ai-guide",
+    "sub": "account-risk",
+    "cluster": "ip-purity-detection",
+    "relPath": "ai-guide/account-risk/ip-purity-detection"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "account-risk",
+    "cluster": "reg-env-building",
+    "relPath": "ai-guide/account-risk/reg-env-building"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "ai-coding",
+    "cluster": "copilot-connect-issue",
+    "relPath": "ai-guide/ai-coding/copilot-connect-issue"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "ai-coding",
+    "cluster": "cursor-network-setup",
+    "relPath": "ai-guide/ai-coding/cursor-network-setup"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "chatgpt",
+    "cluster": "api-timeout-retry",
+    "relPath": "ai-guide/chatgpt/api-timeout-retry"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "chatgpt",
+    "cluster": "web-access-failure",
+    "relPath": "ai-guide/chatgpt/web-access-failure"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "claude",
+    "cluster": "ban-risk-mitigation",
+    "relPath": "ai-guide/claude/ban-risk-mitigation"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "claude",
+    "cluster": "region-unsupported-error",
+    "relPath": "ai-guide/claude/region-unsupported-error"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "gemini",
+    "cluster": "account-access-obtain",
+    "relPath": "ai-guide/gemini/account-access-obtain"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "gemini",
+    "cluster": "node-location-req",
+    "relPath": "ai-guide/gemini/node-location-req"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "multimodal-ai",
+    "cluster": "image-upload-network",
+    "relPath": "ai-guide/multimodal-ai/image-upload-network"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "multimodal-ai",
+    "cluster": "voice-chat-latency",
+    "relPath": "ai-guide/multimodal-ai/voice-chat-latency"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "tools-comparison",
+    "cluster": "network-env-matrix",
+    "relPath": "ai-guide/tools-comparison/network-env-matrix"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "tools-comparison",
+    "cluster": "platform-req-compare",
+    "relPath": "ai-guide/tools-comparison/platform-req-compare"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "workflow-opt",
+    "cluster": "multi-tool-switching",
+    "relPath": "ai-guide/workflow-opt/multi-tool-switching"
+  },
+  {
+    "section": "ai-guide",
+    "sub": "workflow-opt",
+    "cluster": "stable-concurrency-opt",
+    "relPath": "ai-guide/workflow-opt/stable-concurrency-opt"
+  },
+  {
+    "section": "clients",
+    "sub": "advanced-rules",
+    "cluster": "custom-geosite-rules",
+    "relPath": "clients/advanced-rules/custom-geosite-rules"
+  },
+  {
+    "section": "clients",
+    "sub": "advanced-rules",
+    "cluster": "tun-virtual-adapter-deep",
+    "relPath": "clients/advanced-rules/tun-virtual-adapter-deep"
+  },
+  {
+    "section": "clients",
+    "sub": "android",
+    "cluster": "flclash-v2rayng-mobile",
+    "relPath": "clients/android/flclash-v2rayng-mobile"
+  },
+  {
+    "section": "clients",
+    "sub": "android",
+    "cluster": "singbox-android-routing",
+    "relPath": "clients/android/singbox-android-routing"
+  },
+  {
+    "section": "clients",
+    "sub": "backup-migration",
+    "cluster": "rule-sync-across-devices",
+    "relPath": "clients/backup-migration/rule-sync-across-devices"
+  },
+  {
+    "section": "clients",
+    "sub": "backup-migration",
+    "cluster": "sub-backup-recovery",
+    "relPath": "clients/backup-migration/sub-backup-recovery"
+  },
+  {
+    "section": "clients",
+    "sub": "dev-cli",
+    "cluster": "git-ssh-http-proxy",
+    "relPath": "clients/dev-cli/git-ssh-http-proxy"
+  },
+  {
+    "section": "clients",
+    "sub": "dev-cli",
+    "cluster": "terminal-bash-zsh-proxy",
+    "relPath": "clients/dev-cli/terminal-bash-zsh-proxy"
+  },
+  {
+    "section": "clients",
+    "sub": "ios",
+    "cluster": "quantumult-x-rewrite",
+    "relPath": "clients/ios/quantumult-x-rewrite"
+  },
+  {
+    "section": "clients",
+    "sub": "ios",
+    "cluster": "shadowrocket-rule-install",
+    "relPath": "clients/ios/shadowrocket-rule-install"
+  },
+  {
+    "section": "clients",
+    "sub": "mac",
+    "cluster": "clashx-meta-config",
+    "relPath": "clients/mac/clashx-meta-config"
+  },
+  {
+    "section": "clients",
+    "sub": "mac",
+    "cluster": "surge-mac-advanced",
+    "relPath": "clients/mac/surge-mac-advanced"
+  },
+  {
+    "section": "clients",
+    "sub": "router",
+    "cluster": "asus-merlin-clash",
+    "relPath": "clients/router/asus-merlin-clash"
+  },
+  {
+    "section": "clients",
+    "sub": "router",
+    "cluster": "openwrt-passwall-openclash",
+    "relPath": "clients/router/openwrt-passwall-openclash"
+  },
+  {
+    "section": "clients",
+    "sub": "windows",
+    "cluster": "clash-verge-rev-win",
+    "relPath": "clients/windows/clash-verge-rev-win"
+  },
+  {
+    "section": "clients",
+    "sub": "windows",
+    "cluster": "v2rayn-core-setup",
+    "relPath": "clients/windows/v2rayn-core-setup"
+  },
+  {
+    "section": "demand",
+    "sub": "ai-office",
+    "cluster": "chatgpt-troubleshooting",
+    "relPath": "demand/ai-office/chatgpt-troubleshooting"
+  },
+  {
+    "section": "demand",
+    "sub": "ai-office",
+    "cluster": "claude-access-restriction",
+    "relPath": "demand/ai-office/claude-access-restriction"
+  },
+  {
+    "section": "demand",
+    "sub": "dev-env",
+    "cluster": "git-docker-network",
+    "relPath": "demand/dev-env/git-docker-network"
+  },
+  {
+    "section": "demand",
+    "sub": "dev-env",
+    "cluster": "pkg-manager-mirrors",
+    "relPath": "demand/dev-env/pkg-manager-mirrors"
+  },
+  {
+    "section": "demand",
+    "sub": "high-risk-anonymity",
+    "cluster": "browser-fingerprint-anti",
+    "relPath": "demand/high-risk-anonymity/browser-fingerprint-anti"
+  },
+  {
+    "section": "demand",
+    "sub": "high-risk-anonymity",
+    "cluster": "multi-account-isolation",
+    "relPath": "demand/high-risk-anonymity/multi-account-isolation"
+  },
+  {
+    "section": "demand",
+    "sub": "low-latency-gaming",
+    "cluster": "console-online-acc",
+    "relPath": "demand/low-latency-gaming/console-online-acc"
+  },
+  {
+    "section": "demand",
+    "sub": "low-latency-gaming",
+    "cluster": "pc-gaming-network",
+    "relPath": "demand/low-latency-gaming/pc-gaming-network"
+  },
+  {
+    "section": "demand",
+    "sub": "multi-device",
+    "cluster": "home-router-config",
+    "relPath": "demand/multi-device/home-router-config"
+  },
+  {
+    "section": "demand",
+    "sub": "multi-device",
+    "cluster": "soft-router-split",
+    "relPath": "demand/multi-device/soft-router-split"
+  },
+  {
+    "section": "demand",
+    "sub": "remote-work",
+    "cluster": "cloud-collab-security",
+    "relPath": "demand/remote-work/cloud-collab-security"
+  },
+  {
+    "section": "demand",
+    "sub": "remote-work",
+    "cluster": "zoom-latency-fix",
+    "relPath": "demand/remote-work/zoom-latency-fix"
+  },
+  {
+    "section": "demand",
+    "sub": "study-abroad",
+    "cluster": "academic-portal-access",
+    "relPath": "demand/study-abroad/academic-portal-access"
+  },
+  {
+    "section": "demand",
+    "sub": "study-abroad",
+    "cluster": "paper-download-network",
+    "relPath": "demand/study-abroad/paper-download-network"
+  },
+  {
+    "section": "demand",
+    "sub": "video-streaming",
+    "cluster": "disney-account-region",
+    "relPath": "demand/video-streaming/disney-account-region"
+  },
+  {
+    "section": "demand",
+    "sub": "video-streaming",
+    "cluster": "netflix-regional-library",
+    "relPath": "demand/video-streaming/netflix-regional-library"
+  },
+  {
+    "section": "free",
+    "sub": "cheap-alternatives",
+    "cluster": "lightweight-traffic-pack",
+    "relPath": "free/cheap-alternatives/lightweight-traffic-pack"
+  },
+  {
+    "section": "free",
+    "sub": "cheap-alternatives",
+    "cluster": "one-yuan-starter-plans",
+    "relPath": "free/cheap-alternatives/one-yuan-starter-plans"
+  },
+  {
+    "section": "free",
+    "sub": "cleanup-exit",
+    "cluster": "account-cancellation",
+    "relPath": "free/cleanup-exit/account-cancellation"
+  },
+  {
+    "section": "free",
+    "sub": "cleanup-exit",
+    "cluster": "device-cache-cleanup",
+    "relPath": "free/cleanup-exit/device-cache-cleanup"
+  },
+  {
+    "section": "free",
+    "sub": "emergency-backup",
+    "cluster": "open-source-node-rescue",
+    "relPath": "free/emergency-backup/open-source-node-rescue"
+  },
+  {
+    "section": "free",
+    "sub": "emergency-backup",
+    "cluster": "web-proxy-emergency",
+    "relPath": "free/emergency-backup/web-proxy-emergency"
+  },
+  {
+    "section": "free",
+    "sub": "resource-types",
+    "cluster": "commercial-free-trials",
+    "relPath": "free/resource-types/commercial-free-trials"
+  },
+  {
+    "section": "free",
+    "sub": "resource-types",
+    "cluster": "public-opensource-nodes",
+    "relPath": "free/resource-types/public-opensource-nodes"
+  },
+  {
+    "section": "free",
+    "sub": "security-risks",
+    "cluster": "phishing-link-id",
+    "relPath": "free/security-risks/phishing-link-id"
+  },
+  {
+    "section": "free",
+    "sub": "security-risks",
+    "cluster": "privacy-leak-risks",
+    "relPath": "free/security-risks/privacy-leak-risks"
+  },
+  {
+    "section": "free",
+    "sub": "speed-test",
+    "cluster": "actual-availability-rate",
+    "relPath": "free/speed-test/actual-availability-rate"
+  },
+  {
+    "section": "free",
+    "sub": "speed-test",
+    "cluster": "evening-peak-performance",
+    "relPath": "free/speed-test/evening-peak-performance"
+  },
+  {
+    "section": "free",
+    "sub": "trial-conditions",
+    "cluster": "data-cap-limitations",
+    "relPath": "free/trial-conditions/data-cap-limitations"
+  },
+  {
+    "section": "free",
+    "sub": "trial-conditions",
+    "cluster": "payment-binding-pitfalls",
+    "relPath": "free/trial-conditions/payment-binding-pitfalls"
+  },
+  {
+    "section": "free",
+    "sub": "upgrade-timing",
+    "cluster": "demand-upgrade-milestones",
+    "relPath": "free/upgrade-timing/demand-upgrade-milestones"
+  },
+  {
+    "section": "free",
+    "sub": "upgrade-timing",
+    "cluster": "stable-selection-checklist",
+    "relPath": "free/upgrade-timing/stable-selection-checklist"
+  },
+  {
+    "section": "providers",
+    "sub": "ai-dedicated",
+    "cluster": "ip-purity-benchmark",
+    "relPath": "providers/ai-dedicated/ip-purity-benchmark"
+  },
+  {
+    "section": "providers",
+    "sub": "ai-dedicated",
+    "cluster": "supported-platforms-list",
+    "relPath": "providers/ai-dedicated/supported-platforms-list"
+  },
+  {
+    "section": "providers",
+    "sub": "beginner-friendly",
+    "cluster": "hassle-free-setup",
+    "relPath": "providers/beginner-friendly/hassle-free-setup"
+  },
+  {
+    "section": "providers",
+    "sub": "beginner-friendly",
+    "cluster": "one-click-client",
+    "relPath": "providers/beginner-friendly/one-click-client"
+  },
+  {
+    "section": "providers",
+    "sub": "brands-comparison",
+    "cluster": "history-background-matrix",
+    "relPath": "providers/brands-comparison/history-background-matrix"
+  },
+  {
+    "section": "providers",
+    "sub": "brands-comparison",
+    "cluster": "pitfall-avoidance-guide",
+    "relPath": "providers/brands-comparison/pitfall-avoidance-guide"
+  },
+  {
+    "section": "providers",
+    "sub": "budget-value",
+    "cluster": "annual-discount-analysis",
+    "relPath": "providers/budget-value/annual-discount-analysis"
+  },
+  {
+    "section": "providers",
+    "sub": "budget-value",
+    "cluster": "low-monthly-plans",
+    "relPath": "providers/budget-value/low-monthly-plans"
+  },
+  {
+    "section": "providers",
+    "sub": "failover-backup",
+    "cluster": "anti-exit-scam-strategy",
+    "relPath": "providers/failover-backup/anti-exit-scam-strategy"
+  },
+  {
+    "section": "providers",
+    "sub": "failover-backup",
+    "cluster": "multi-protocol-redundancy",
+    "relPath": "providers/failover-backup/multi-protocol-redundancy"
+  },
+  {
+    "section": "providers",
+    "sub": "iplc-iepl",
+    "cluster": "dedicated-bandwidth-edge",
+    "relPath": "providers/iplc-iepl/dedicated-bandwidth-edge"
+  },
+  {
+    "section": "providers",
+    "sub": "iplc-iepl",
+    "cluster": "iplc-iepl-difference",
+    "relPath": "providers/iplc-iepl/iplc-iepl-difference"
+  },
+  {
+    "section": "providers",
+    "sub": "office-stable",
+    "cluster": "sla-promise-compare",
+    "relPath": "providers/office-stable/sla-promise-compare"
+  },
+  {
+    "section": "providers",
+    "sub": "office-stable",
+    "cluster": "support-response-time",
+    "relPath": "providers/office-stable/support-response-time"
+  },
+  {
+    "section": "providers",
+    "sub": "streaming-dedicated",
+    "cluster": "full-unlock-nodes",
+    "relPath": "providers/streaming-dedicated/full-unlock-nodes"
+  },
+  {
+    "section": "providers",
+    "sub": "streaming-dedicated",
+    "cluster": "high-bandwidth-speedtest",
+    "relPath": "providers/streaming-dedicated/high-bandwidth-speedtest"
+  },
+  {
+    "section": "streaming",
+    "sub": "bandwidth-calc",
+    "cluster": "peak-throttle-counter",
+    "relPath": "streaming/bandwidth-calc/peak-throttle-counter"
+  },
+  {
+    "section": "streaming",
+    "sub": "bandwidth-calc",
+    "cluster": "resolution-data-usage",
+    "relPath": "streaming/bandwidth-calc/resolution-data-usage"
+  },
+  {
+    "section": "streaming",
+    "sub": "disney",
+    "cluster": "geo-block-removal",
+    "relPath": "streaming/disney/geo-block-removal"
+  },
+  {
+    "section": "streaming",
+    "sub": "disney",
+    "cluster": "household-sharing-check",
+    "relPath": "streaming/disney/household-sharing-check"
+  },
+  {
+    "section": "streaming",
+    "sub": "hbo-hulu",
+    "cluster": "native-unlock-strategy",
+    "relPath": "streaming/hbo-hulu/native-unlock-strategy"
+  },
+  {
+    "section": "streaming",
+    "sub": "hbo-hulu",
+    "cluster": "proxy-detection-bypass",
+    "relPath": "streaming/hbo-hulu/proxy-detection-bypass"
+  },
+  {
+    "section": "streaming",
+    "sub": "netflix",
+    "cluster": "4k-bitrate-stability",
+    "relPath": "streaming/netflix/4k-bitrate-stability"
+  },
+  {
+    "section": "streaming",
+    "sub": "netflix",
+    "cluster": "non-residential-ip-error",
+    "relPath": "streaming/netflix/non-residential-ip-error"
+  },
+  {
+    "section": "streaming",
+    "sub": "speed-unlock",
+    "cluster": "speedtest-methodology",
+    "relPath": "streaming/speed-unlock/speedtest-methodology"
+  },
+  {
+    "section": "streaming",
+    "sub": "speed-unlock",
+    "cluster": "unlock-ability-benchmark",
+    "relPath": "streaming/speed-unlock/unlock-ability-benchmark"
+  },
+  {
+    "section": "streaming",
+    "sub": "tiktok",
+    "cluster": "env-masking-skills",
+    "relPath": "streaming/tiktok/env-masking-skills"
+  },
+  {
+    "section": "streaming",
+    "sub": "tiktok",
+    "cluster": "shadowban-troubleshoot",
+    "relPath": "streaming/tiktok/shadowban-troubleshoot"
+  },
+  {
+    "section": "streaming",
+    "sub": "tv-devices",
+    "cluster": "android-tv-box",
+    "relPath": "streaming/tv-devices/android-tv-box"
+  },
+  {
+    "section": "streaming",
+    "sub": "tv-devices",
+    "cluster": "apple-tv-clash",
+    "relPath": "streaming/tv-devices/apple-tv-clash"
+  },
+  {
+    "section": "streaming",
+    "sub": "youtube",
+    "cluster": "buffer-speed-opt",
+    "relPath": "streaming/youtube/buffer-speed-opt"
+  },
+  {
+    "section": "streaming",
+    "sub": "youtube",
+    "cluster": "live-stutter-solution",
+    "relPath": "streaming/youtube/live-stutter-solution"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "account-login-anomaly",
+    "cluster": "browser-cache-fingerprint",
+    "relPath": "troubleshooting/account-login-anomaly/browser-cache-fingerprint"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "account-login-anomaly",
+    "cluster": "frequent-ip-hopping",
+    "relPath": "troubleshooting/account-login-anomaly/frequent-ip-hopping"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "ai-unreachable",
+    "cluster": "local-firewall-intercept",
+    "relPath": "troubleshooting/ai-unreachable/local-firewall-intercept"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "ai-unreachable",
+    "cluster": "platform-outage-diagnosis",
+    "relPath": "troubleshooting/ai-unreachable/platform-outage-diagnosis"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "slow-speed",
+    "cluster": "line-congestion-detection",
+    "relPath": "troubleshooting/slow-speed/line-congestion-detection"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "slow-speed",
+    "cluster": "node-switch-routing-rules",
+    "relPath": "troubleshooting/slow-speed/node-switch-routing-rules"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "split-tunnel-failure",
+    "cluster": "dns-leak-webrtc-fix",
+    "relPath": "troubleshooting/split-tunnel-failure/dns-leak-webrtc-fix"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "split-tunnel-failure",
+    "cluster": "rule-matching-conflict",
+    "relPath": "troubleshooting/split-tunnel-failure/rule-matching-conflict"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "sub-connection-failed",
+    "cluster": "client-import-syntax-err",
+    "relPath": "troubleshooting/sub-connection-failed/client-import-syntax-err"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "sub-connection-failed",
+    "cluster": "sub-url-fetch-failure",
+    "relPath": "troubleshooting/sub-connection-failed/sub-url-fetch-failure"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "system-proxy-conflict",
+    "cluster": "mac-network-extension-bug",
+    "relPath": "troubleshooting/system-proxy-conflict/mac-network-extension-bug"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "system-proxy-conflict",
+    "cluster": "windows-loopback-conflict",
+    "relPath": "troubleshooting/system-proxy-conflict/windows-loopback-conflict"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "tun-mode-issue",
+    "cluster": "admin-privilege-elevation",
+    "relPath": "troubleshooting/tun-mode-issue/admin-privilege-elevation"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "tun-mode-issue",
+    "cluster": "route-table-collision",
+    "relPath": "troubleshooting/tun-mode-issue/route-table-collision"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "video-playback-error",
+    "cluster": "dns-pollution-resolution",
+    "relPath": "troubleshooting/video-playback-error/dns-pollution-resolution"
+  },
+  {
+    "section": "troubleshooting",
+    "sub": "video-playback-error",
+    "cluster": "proxy-error-code-analysis",
+    "relPath": "troubleshooting/video-playback-error/proxy-error-code-analysis"
+  },
+  {
+    "section": "work-study",
+    "sub": "academic-research",
+    "cluster": "ieee-acm-download",
+    "relPath": "work-study/academic-research/ieee-acm-download"
+  },
+  {
+    "section": "work-study",
+    "sub": "academic-research",
+    "cluster": "scholar-unreachable",
+    "relPath": "work-study/academic-research/scholar-unreachable"
+  },
+  {
+    "section": "work-study",
+    "sub": "cloud-design",
+    "cluster": "asset-load-slowdown",
+    "relPath": "work-study/cloud-design/asset-load-slowdown"
+  },
+  {
+    "section": "work-study",
+    "sub": "cloud-design",
+    "cluster": "figma-collab-lag",
+    "relPath": "work-study/cloud-design/figma-collab-lag"
+  },
+  {
+    "section": "work-study",
+    "sub": "code-hosting",
+    "cluster": "github-acceleration",
+    "relPath": "work-study/code-hosting/github-acceleration"
+  },
+  {
+    "section": "work-study",
+    "sub": "code-hosting",
+    "cluster": "vercel-env-setup",
+    "relPath": "work-study/code-hosting/vercel-env-setup"
+  },
+  {
+    "section": "work-study",
+    "sub": "cross-border-ecommerce",
+    "cluster": "amazon-shopify-network",
+    "relPath": "work-study/cross-border-ecommerce/amazon-shopify-network"
+  },
+  {
+    "section": "work-study",
+    "sub": "cross-border-ecommerce",
+    "cluster": "anti-association-config",
+    "relPath": "work-study/cross-border-ecommerce/anti-association-config"
+  },
+  {
+    "section": "work-study",
+    "sub": "google-workspace",
+    "cluster": "drive-sync-failure",
+    "relPath": "work-study/google-workspace/drive-sync-failure"
+  },
+  {
+    "section": "work-study",
+    "sub": "google-workspace",
+    "cluster": "gmail-intercept-release",
+    "relPath": "work-study/google-workspace/gmail-intercept-release"
+  },
+  {
+    "section": "work-study",
+    "sub": "multi-device-collab",
+    "cluster": "pc-mobile-sync",
+    "relPath": "work-study/multi-device-collab/pc-mobile-sync"
+  },
+  {
+    "section": "work-study",
+    "sub": "multi-device-collab",
+    "cluster": "tablet-seamless-access",
+    "relPath": "work-study/multi-device-collab/tablet-seamless-access"
+  },
+  {
+    "section": "work-study",
+    "sub": "office-security",
+    "cluster": "public-wifi-protection",
+    "relPath": "work-study/office-security/public-wifi-protection"
+  },
+  {
+    "section": "work-study",
+    "sub": "office-security",
+    "cluster": "transport-encryption-audit",
+    "relPath": "work-study/office-security/transport-encryption-audit"
+  },
+  {
+    "section": "work-study",
+    "sub": "video-conferencing",
+    "cluster": "meeting-disconnect-fix",
+    "relPath": "work-study/video-conferencing/meeting-disconnect-fix"
+  },
+  {
+    "section": "work-study",
+    "sub": "video-conferencing",
+    "cluster": "zoom-teams-latency",
+    "relPath": "work-study/video-conferencing/zoom-teams-latency"
+  }
+]
