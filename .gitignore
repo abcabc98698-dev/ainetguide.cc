@@ -9,7 +9,7 @@ dist/
 
 # Cache & Temp Files
 docs/.vitepress/cache/
-.vitepress/
+/.vitepress/
 .cache/
 .temp/
 *.tmp
